@@ -28,5 +28,4 @@ Add Stars to the repository . ⭐
  By [Elzero Web School](https://www.youtube.com/c/ElzeroInfo)
  - [HTML/CSS -cours ](https://www.youtube.com/watch?v=u5W2NWItytc&list=PLrSOXFDHBtfE5tpw0bjMevWxMWXotiSdO)
   By [Formation Video](https://www.youtube.com/c/Formationvid%C3%A9o8)
-- [Cours Comlept HTML et CSS](https://www.youtube.com/watch?v=Y80juYcu3ZI&list=PLwLsbqvBlImHG5yeUCXJ1aqNMgUKi1NK3) By Pierre Giraud
 ---
