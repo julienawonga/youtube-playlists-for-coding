@@ -26,6 +26,6 @@ Add Stars to the repository . ⭐
  ### HTML
  - [Learn HTML in Arabic](https://www.youtube.com/watch?v=6QAELgirvjs&list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji)
  By [Elzero Web School](https://www.youtube.com/c/ElzeroInfo)
- - [HTML/CSS course ](https://www.youtube.com/watch?v=u5W2NWItytc&list=PLrSOXFDHBtfE5tpw0bjMevWxMWXotiSdO)
+ - [HTML/CSS Course ](https://www.youtube.com/watch?v=u5W2NWItytc&list=PLrSOXFDHBtfE5tpw0bjMevWxMWXotiSdO)
   By [Formation Video](https://www.youtube.com/c/Formationvid%C3%A9o8)
 ---
