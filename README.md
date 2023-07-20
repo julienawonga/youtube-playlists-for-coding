@@ -2,7 +2,7 @@
 
 This repository brings together all the youtube channels to learn to code.
 
-if you have any questions, comments, or questions about this repository, please contact us at <julienawon@outlook.com>
+if you have any questions, comments, or questions about this repository, please contact us at <julienawon@gmail.com>
 
 if you want to contribute to this repository, please see the contribution guidelines [here](/CONTRIBUTING.md)
 
