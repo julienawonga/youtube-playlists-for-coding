@@ -21,7 +21,7 @@ Add Stars to the repository . ⭐
 - ### Frameworks
     - [Laravel](#laravel)
     - [Symfony](#symfony)
-    - [Rails](#rails)
+    - [Ruby Rails](#rails)
 ---
  ### HTML
  - [Learn HTML in Arabic](https://www.youtube.com/watch?v=6QAELgirvjs&list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji)
