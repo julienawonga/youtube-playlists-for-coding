@@ -1,6 +1,6 @@
 # Youtube chanels for coding
 
-This repository brings together all the youtube channels to learn to code..
+This repository brings together all the youtube channels to learn to code...
 
 if you have any questions, comments, or questions about this repository, please contact us at <julienawon@gmail.com>
 
