@@ -13,7 +13,8 @@ Pls add Stars to the repository ⭐
 
 ## Categories
 - ### Big data
-      - [Hadoop](#hadoop)
+    - [Hadoop](#hadoop)
+    - [Spark](#spark)
 - ### Frontend
     - [HTML](#html)
     - [CSS](#css)
